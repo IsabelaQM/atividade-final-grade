@@ -4,7 +4,7 @@ Projeto para a geração e otimização automática de grades horárias para o c
 
 ## Objetivo
 
-- Gerar 50 possíveis grades horárias.
+- Gerar grades horárias para as turmas do curso de Sistemas para Internet.
 - Selecionar a melhor grade com o menor número de conflitos, garantindo que cada disciplina seja correta e uniformemente distribuída.
 - Utilizar técnicas de AG para explorar soluções via processos de seleção, cruzamento e mutação.
 
